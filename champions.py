@@ -108,6 +108,12 @@ COUNTRY_ISO = {
     "San Marino": "sm", "Liechtenstein": "li", "Monaco": "mc",
 }
 
+# Equipos que juegan en campo neutral de otro país (guerra, sanciones…)
+TEAM_COUNTRY = {
+    "Shakhtar Donetsk": "ua", "Dynamo Kyiv": "ua", "Dnipro-1": "ua", "Zorya Luhansk": "ua",
+    "Maccabi Tel-Aviv": "il", "Maccabi Haifa": "il", "Hapoel Be'er Sheva": "il", "Maccabi Tel Aviv": "il",
+    "Qarabag": "az", "Qarabag FK": "az", "Sheriff Tiraspol": "md",
+}
 
 # ---------------------------------------------------------------- utilidades
 def log(*a):
@@ -693,7 +699,7 @@ def main():
     def team_out(t):
         i = teams.get(t, {})
         return {"id": t, "n": i.get("n", t), "a": i.get("a", ""), "logo": i.get("logo", ""),
-                "c": i.get("c") or COUNTRY_ISO.get(i.get("vc", ""), ""),
+                "c": i.get("c") or TEAM_COUNTRY.get(i.get("full", "")) or COUNTRY_ISO.get(i.get("vc", ""), ""),
                 "elo": round(model.rating(t)), "tr": arrow(trend.get(t, []))}
 
     # próximos partidos y pronósticos (21 días)
