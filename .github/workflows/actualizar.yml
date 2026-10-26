@@ -1,0 +1,35 @@
+name: Actualizar pronósticos Champions
+
+on:
+  schedule:
+    - cron: "23 5 * * *"     # cada día ~07:23 hora de Madrid
+    - cron: "23 15 * * *"    # ~17:23 (antes de los partidos)
+    - cron: "53 22 * * 2,3"  # martes y miércoles tras los partidos de Champions
+  workflow_dispatch: {}       # botón "Run workflow" para lanzarlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Calcular Elo, pronósticos y simulación
+        run: python champions.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "champions-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json history.json results.json
+          git diff --cached --quiet || git commit -m "Champions $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push
