@@ -1434,14 +1434,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
 "pick": "2",
-"pick_prob": 60.0,
+"pick_prob": 60.1,
 "dc": "X2",
 "score": "0-1",
 "conf": 6,
 "prob": [
 17.7,
-22.3,
-60.0
+22.1,
+60.1
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1560,14 +1560,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
 "pick": "2",
-"pick_prob": 38.0,
+"pick_prob": 37.2,
 "dc": "X2",
 "score": "0-1",
 "conf": 1,
 "prob": [
-36.0,
-26.0,
-38.0
+35.7,
+27.2,
+37.2
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1602,14 +1602,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
 "pick": "2",
-"pick_prob": 60.0,
+"pick_prob": 60.1,
 "dc": "X2",
 "score": "0-1",
 "conf": 6,
 "prob": [
 17.7,
-22.3,
-60.0
+22.1,
+60.1
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1623,14 +1623,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
 "pick": "2",
-"pick_prob": 46.6,
+"pick_prob": 46.8,
 "dc": "X2",
 "score": "0-1",
 "conf": 3,
 "prob": [
 27.0,
-26.4,
-46.6
+26.2,
+46.8
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1686,14 +1686,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
 "pick": "2",
-"pick_prob": 46.5,
+"pick_prob": 47.4,
 "dc": "X2",
 "score": "0-1",
-"conf": 3,
+"conf": 4,
 "prob": [
-25.7,
-27.8,
-46.5
+24.9,
+27.7,
+47.4
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1728,14 +1728,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
 "pick": "2",
-"pick_prob": 56.7,
+"pick_prob": 56.8,
 "dc": "X2",
 "score": "0-1",
 "conf": 6,
 "prob": [
-18.4,
+18.3,
 24.9,
-56.7
+56.8
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1770,12 +1770,12 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
 "pick": "1",
-"pick_prob": 75.0,
+"pick_prob": 75.1,
 "dc": "1X",
 "score": "2-0",
 "conf": 10,
 "prob": [
-75.0,
+75.1,
 16.4,
 8.6
 ],
