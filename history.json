@@ -1413,14 +1413,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
 "pick": "1",
-"pick_prob": 46.8,
+"pick_prob": 46.9,
 "dc": "1X",
 "score": "1-0",
 "conf": 3,
 "prob": [
-46.8,
-26.5,
-26.7
+46.9,
+27.9,
+25.2
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1460,8 +1460,8 @@
 "score": "0-1",
 "conf": 5,
 "prob": [
-18.2,
-25.9,
+18.1,
+26.0,
 55.9
 ],
 "created": "2026-10-26T10:52+00:00"
@@ -1518,14 +1518,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
 "pick": "2",
-"pick_prob": 53.0,
+"pick_prob": 52.9,
 "dc": "X2",
 "score": "0-1",
 "conf": 5,
 "prob": [
-19.9,
-27.1,
-53.0
+19.8,
+27.3,
+52.9
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1581,14 +1581,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
 "pick": "2",
-"pick_prob": 66.3,
+"pick_prob": 66.8,
 "dc": "X2",
 "score": "0-1",
 "conf": 8,
 "prob": [
 13.5,
-20.2,
-66.3
+19.7,
+66.8
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1623,14 +1623,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
 "pick": "2",
-"pick_prob": 48.4,
+"pick_prob": 46.6,
 "dc": "X2",
 "score": "0-1",
-"conf": 4,
+"conf": 3,
 "prob": [
-25.0,
-26.6,
-48.4
+27.0,
+26.4,
+46.6
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1749,14 +1749,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
 "pick": "2",
-"pick_prob": 60.8,
+"pick_prob": 60.7,
 "dc": "X2",
 "score": "0-1",
-"conf": 7,
+"conf": 6,
 "prob": [
 13.9,
 25.4,
-60.8
+60.7
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1770,13 +1770,13 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
 "pick": "1",
-"pick_prob": 75.2,
+"pick_prob": 75.0,
 "dc": "1X",
 "score": "2-0",
 "conf": 10,
 "prob": [
-75.2,
-16.2,
+75.0,
+16.4,
 8.6
 ],
 "created": "2026-10-26T10:52+00:00"
