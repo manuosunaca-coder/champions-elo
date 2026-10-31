@@ -1440,7 +1440,7 @@
 "conf": 6,
 "prob": [
 17.9,
-22.1,
+22.0,
 60.1
 ],
 "created": "2026-10-26T10:52+00:00"
@@ -1455,14 +1455,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
 "pick": "2",
-"pick_prob": 55.6,
+"pick_prob": 55.0,
 "dc": "X2",
 "score": "0-1",
 "conf": 5,
 "prob": [
-18.4,
+19.0,
 26.0,
-55.6
+55.0
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1476,14 +1476,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
 "pick": "1",
-"pick_prob": 54.4,
+"pick_prob": 54.6,
 "dc": "1X",
 "score": "1-0",
 "conf": 5,
 "prob": [
-54.4,
+54.6,
 25.2,
-20.4
+20.2
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1497,12 +1497,12 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
 "pick": "1",
-"pick_prob": 61.2,
+"pick_prob": 61.3,
 "dc": "1X",
 "score": "1-0",
 "conf": 7,
 "prob": [
-61.2,
+61.3,
 22.5,
 16.3
 ],
@@ -1518,14 +1518,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
 "pick": "2",
-"pick_prob": 53.8,
+"pick_prob": 53.7,
 "dc": "X2",
 "score": "0-1",
 "conf": 5,
 "prob": [
-19.7,
+19.8,
 26.5,
-53.8
+53.7
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1539,14 +1539,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
 "pick": "1",
-"pick_prob": 63.9,
+"pick_prob": 64.1,
 "dc": "1X",
 "score": "1-0",
 "conf": 7,
 "prob": [
-63.9,
+64.1,
 22.0,
-14.1
+14.0
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1560,14 +1560,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
 "pick": "2",
-"pick_prob": 37.2,
+"pick_prob": 41.8,
 "dc": "X2",
 "score": "0-1",
-"conf": 1,
+"conf": 2,
 "prob": [
-35.5,
-27.3,
-37.2
+31.8,
+26.4,
+41.8
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1608,7 +1608,7 @@
 "conf": 6,
 "prob": [
 17.9,
-22.1,
+22.0,
 60.1
 ],
 "created": "2026-10-26T10:52+00:00"
@@ -1713,8 +1713,8 @@
 "conf": 1,
 "prob": [
 37.3,
-29.4,
-33.3
+29.2,
+33.5
 ],
 "created": "2026-10-26T10:52+00:00"
 },
