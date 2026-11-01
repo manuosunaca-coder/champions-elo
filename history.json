@@ -1434,14 +1434,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
 "pick": "2",
-"pick_prob": 60.1,
+"pick_prob": 59.9,
 "dc": "X2",
 "score": "0-1",
 "conf": 6,
 "prob": [
-18.0,
-21.9,
-60.1
+17.9,
+22.1,
+59.9
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1455,14 +1455,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
 "pick": "2",
-"pick_prob": 53.6,
+"pick_prob": 53.7,
 "dc": "X2",
 "score": "0-1",
 "conf": 5,
 "prob": [
 20.2,
-26.2,
-53.6
+26.1,
+53.7
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1602,14 +1602,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
 "pick": "2",
-"pick_prob": 60.1,
+"pick_prob": 59.9,
 "dc": "X2",
 "score": "0-1",
 "conf": 6,
 "prob": [
-18.0,
-21.9,
-60.1
+17.9,
+22.1,
+59.9
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1686,14 +1686,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
 "pick": "2",
-"pick_prob": 48.5,
+"pick_prob": 47.2,
 "dc": "X2",
 "score": "0-1",
-"conf": 4,
+"conf": 3,
 "prob": [
-25.1,
-26.4,
-48.5
+25.3,
+27.5,
+47.2
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1728,14 +1728,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
 "pick": "2",
-"pick_prob": 54.2,
+"pick_prob": 54.0,
 "dc": "X2",
 "score": "0-1",
 "conf": 5,
 "prob": [
 19.6,
-26.2,
-54.2
+26.4,
+54.0
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1770,14 +1770,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
 "pick": "1",
-"pick_prob": 73.7,
+"pick_prob": 73.9,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-73.7,
-17.0,
-9.3
+73.9,
+16.9,
+9.2
 ],
 "created": "2026-10-26T10:52+00:00"
 }
