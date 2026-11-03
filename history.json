@@ -1422,7 +1422,12 @@
 27.5,
 28.0
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "2-0",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915310",
@@ -1443,7 +1448,12 @@
 22.1,
 60.0
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "0-1",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": true
 },
 {
 "id": "401915386",
@@ -1464,7 +1474,12 @@
 26.3,
 53.6
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "0-2",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915387",
@@ -1485,7 +1500,12 @@
 23.9,
 21.7
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "3-0",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915384",
@@ -1506,7 +1526,12 @@
 22.3,
 16.2
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "0-0",
+"result": "X",
+"win": false,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915307",
@@ -1527,7 +1552,12 @@
 27.4,
 51.6
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "0-3",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915385",
@@ -1548,7 +1578,12 @@
 20.4,
 13.5
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "4-0",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915308",
@@ -1569,7 +1604,12 @@
 28.3,
 44.1
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "3-2",
+"result": "1",
+"win": false,
+"dc_win": false,
+"exact": false
 },
 {
 "id": "401915309",
@@ -1590,7 +1630,12 @@
 18.9,
 68.3
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "0-6",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915383",
@@ -1602,14 +1647,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
 "pick": "2",
-"pick_prob": 62.8,
+"pick_prob": 62.9,
 "dc": "X2",
 "score": "0-1",
 "conf": 7,
 "prob": [
-16.0,
+15.9,
 21.2,
-62.8
+62.9
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1623,14 +1668,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
 "pick": "2",
-"pick_prob": 48.9,
+"pick_prob": 49.2,
 "dc": "X2",
 "score": "0-1",
 "conf": 4,
 "prob": [
 25.7,
-25.4,
-48.9
+25.1,
+49.2
 ],
 "created": "2026-10-26T10:52+00:00"
 },
@@ -1780,5 +1825,194 @@
 8.9
 ],
 "created": "2026-10-26T10:52+00:00"
+},
+{
+"id": "401915380",
+"date": "2026-11-24T17:45Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Bodø/Glimt",
+"a": "LASK Linz",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+"pick": "1",
+"pick_prob": 64.1,
+"dc": "1X",
+"score": "1-0",
+"conf": 7,
+"prob": [
+64.1,
+21.9,
+14.0
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915300",
+"date": "2026-11-24T17:45Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Galatasaray",
+"a": "Aston Villa",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+"pick": "2",
+"pick_prob": 41.6,
+"dc": "X2",
+"score": "0-1",
+"conf": 2,
+"prob": [
+32.3,
+26.0,
+41.6
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915295",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Arsenal",
+"a": "Borussia Dortmund",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+"pick": "1",
+"pick_prob": 71.7,
+"dc": "1X",
+"score": "2-0",
+"conf": 9,
+"prob": [
+71.7,
+17.6,
+10.7
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915296",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Como",
+"a": "AEK Atenas",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
+"pick": "1",
+"pick_prob": 61.7,
+"dc": "1X",
+"score": "1-0",
+"conf": 7,
+"prob": [
+61.7,
+22.6,
+15.8
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915294",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Feyenoord Rotterdam",
+"a": "Oporto",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+"pick": "2",
+"pick_prob": 46.5,
+"dc": "X2",
+"score": "0-1",
+"conf": 3,
+"prob": [
+25.4,
+28.1,
+46.5
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915379",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Manchester City",
+"a": "Nápoles",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+"pick": "1",
+"pick_prob": 69.2,
+"dc": "1X",
+"score": "2-0",
+"conf": 8,
+"prob": [
+69.2,
+18.5,
+12.3
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915299",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "RB Leipzig",
+"a": "Lens",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+"pick": "1",
+"pick_prob": 46.4,
+"dc": "1X",
+"score": "1-0",
+"conf": 3,
+"prob": [
+46.4,
+28.3,
+25.2
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915298",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Real Madrid",
+"a": "PSV",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+"pick": "1",
+"pick_prob": 68.6,
+"dc": "1X",
+"score": "2-0",
+"conf": 8,
+"prob": [
+68.6,
+19.2,
+12.3
+],
+"created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915297",
+"date": "2026-11-24T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Slovan Bratislava",
+"a": "Betis",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+"pick": "2",
+"pick_prob": 68.4,
+"dc": "X2",
+"score": "0-2",
+"conf": 8,
+"prob": [
+12.8,
+18.8,
+68.4
+],
+"created": "2026-11-03T23:26+00:00"
 }
 ]
