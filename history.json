@@ -1656,7 +1656,12 @@
 21.2,
 62.9
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "2-3",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915382",
@@ -1677,7 +1682,12 @@
 25.1,
 49.2
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "3-2",
+"result": "1",
+"win": false,
+"dc_win": false,
+"exact": false
 },
 {
 "id": "401915304",
@@ -1698,7 +1708,12 @@
 26.2,
 22.4
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "2-1",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915301",
@@ -1719,7 +1734,12 @@
 24.7,
 24.4
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "4-1",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915305",
@@ -1740,7 +1760,12 @@
 27.5,
 47.2
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "1-9",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915303",
@@ -1761,7 +1786,12 @@
 29.0,
 33.5
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "1-2",
+"result": "2",
+"win": false,
+"dc_win": false,
+"exact": false
 },
 {
 "id": "401915306",
@@ -1782,7 +1812,12 @@
 26.5,
 53.9
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "2-3",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915381",
@@ -1803,7 +1838,12 @@
 23.7,
 63.1
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "1-2",
+"result": "2",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915302",
@@ -1824,7 +1864,12 @@
 16.8,
 8.9
 ],
-"created": "2026-10-26T10:52+00:00"
+"created": "2026-10-26T10:52+00:00",
+"final": "4-1",
+"result": "1",
+"win": true,
+"dc_win": true,
+"exact": false
 },
 {
 "id": "401915380",
@@ -1878,14 +1923,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
 "pick": "1",
-"pick_prob": 71.7,
+"pick_prob": 71.6,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-71.7,
-17.6,
-10.7
+71.6,
+17.8,
+10.6
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1899,14 +1944,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "pick": "1",
-"pick_prob": 61.7,
+"pick_prob": 69.9,
 "dc": "1X",
-"score": "1-0",
-"conf": 7,
+"score": "2-0",
+"conf": 9,
 "prob": [
-61.7,
-22.6,
-15.8
+69.9,
+18.8,
+11.3
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1920,14 +1965,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
 "pick": "2",
-"pick_prob": 46.5,
+"pick_prob": 48.3,
 "dc": "X2",
 "score": "0-1",
-"conf": 3,
+"conf": 4,
 "prob": [
-25.4,
-28.1,
-46.5
+25.1,
+26.6,
+48.3
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1941,14 +1986,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
 "pick": "1",
-"pick_prob": 69.2,
+"pick_prob": 71.8,
 "dc": "1X",
 "score": "2-0",
-"conf": 8,
+"conf": 9,
 "prob": [
-69.2,
-18.5,
-12.3
+71.8,
+17.6,
+10.6
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1962,14 +2007,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
 "pick": "1",
-"pick_prob": 46.4,
+"pick_prob": 51.2,
 "dc": "1X",
 "score": "1-0",
-"conf": 3,
+"conf": 4,
 "prob": [
-46.4,
-28.3,
-25.2
+51.2,
+24.6,
+24.2
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1983,14 +2028,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
 "pick": "1",
-"pick_prob": 68.6,
+"pick_prob": 69.9,
 "dc": "1X",
 "score": "2-0",
-"conf": 8,
+"conf": 9,
 "prob": [
-68.6,
-19.2,
-12.3
+69.9,
+18.8,
+11.3
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -2004,15 +2049,204 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
 "pick": "2",
-"pick_prob": 68.4,
+"pick_prob": 68.2,
 "dc": "X2",
 "score": "0-2",
 "conf": 8,
 "prob": [
-12.8,
-18.8,
-68.4
+12.9,
+18.9,
+68.2
 ],
 "created": "2026-11-03T23:26+00:00"
+},
+{
+"id": "401915378",
+"date": "2026-11-25T17:45Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Sabah FK",
+"a": "Barcelona",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+"pick": "2",
+"pick_prob": 70.1,
+"dc": "X2",
+"score": "0-2",
+"conf": 9,
+"prob": [
+11.7,
+18.2,
+70.1
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915293",
+"date": "2026-11-25T17:45Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Slavia de Praga",
+"a": "Villarreal",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+"pick": "2",
+"pick_prob": 62.8,
+"dc": "X2",
+"score": "0-1",
+"conf": 7,
+"prob": [
+15.9,
+21.3,
+62.8
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915291",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Atlético de Madrid",
+"a": "Viking FK",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
+"pick": "1",
+"pick_prob": 54.4,
+"dc": "1X",
+"score": "1-0",
+"conf": 5,
+"prob": [
+54.4,
+24.2,
+21.4
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915292",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Brujas",
+"a": "Liverpool",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+"pick": "1",
+"pick_prob": 47.3,
+"dc": "1X",
+"score": "1-0",
+"conf": 4,
+"prob": [
+47.3,
+26.7,
+26.0
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915376",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Inter de Milán",
+"a": "Stuttgart",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+"pick": "1",
+"pick_prob": 66.3,
+"dc": "1X",
+"score": "1-0",
+"conf": 8,
+"prob": [
+66.3,
+20.2,
+13.5
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915377",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Lille",
+"a": "Bayern Múnich",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+"pick": "2",
+"pick_prob": 68.3,
+"dc": "X2",
+"score": "0-2",
+"conf": 8,
+"prob": [
+13.5,
+18.2,
+68.3
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915374",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "PSG",
+"a": "AS Roma",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+"pick": "1",
+"pick_prob": 71.8,
+"dc": "1X",
+"score": "2-0",
+"conf": 9,
+"prob": [
+71.8,
+17.9,
+10.3
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915375",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Shakhtar",
+"a": "Fenerbahçe",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+"pick": "2",
+"pick_prob": 47.1,
+"dc": "X2",
+"score": "0-1",
+"conf": 3,
+"prob": [
+25.2,
+27.7,
+47.1
+],
+"created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915373",
+"date": "2026-11-25T20:00Z",
+"round": "Fase liga",
+"md": 5,
+"h": "Sporting de Portugal",
+"a": "Manchester United",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+"pick": "1",
+"pick_prob": 54.4,
+"dc": "1X",
+"score": "1-0",
+"conf": 5,
+"prob": [
+54.4,
+24.2,
+21.4
+],
+"created": "2026-11-04T23:26+00:00"
 }
 ]
