@@ -2007,13 +2007,13 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
 "pick": "1",
-"pick_prob": 52.8,
+"pick_prob": 52.6,
 "dc": "1X",
 "score": "1-0",
 "conf": 5,
 "prob": [
-52.8,
-26.7,
+52.6,
+26.8,
 20.6
 ],
 "created": "2026-11-03T23:26+00:00"
@@ -2118,8 +2118,8 @@
 "conf": 5,
 "prob": [
 54.9,
-24.9,
-20.2
+25.0,
+20.1
 ],
 "created": "2026-11-04T23:26+00:00"
 },
