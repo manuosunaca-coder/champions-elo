@@ -2133,14 +2133,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
 "pick": "1",
-"pick_prob": 42.9,
+"pick_prob": 43.1,
 "dc": "1X",
 "score": "1-0",
 "conf": 3,
 "prob": [
-42.9,
+43.1,
 26.7,
-30.4
+30.2
 ],
 "created": "2026-11-04T23:26+00:00"
 },
