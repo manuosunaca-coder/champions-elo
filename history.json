@@ -2248,5 +2248,194 @@
 21.2
 ],
 "created": "2026-11-04T23:26+00:00"
+},
+{
+"id": "401915290",
+"date": "2026-12-08T17:45Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Viking FK",
+"a": "Feyenoord Rotterdam",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+"pick": "1",
+"pick_prob": 54.9,
+"dc": "1X",
+"score": "1-0",
+"conf": 5,
+"prob": [
+54.9,
+25.0,
+20.1
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915372",
+"date": "2026-12-08T17:45Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Villarreal",
+"a": "Sabah FK",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+"pick": "1",
+"pick_prob": 71.3,
+"dc": "1X",
+"score": "2-0",
+"conf": 9,
+"prob": [
+71.3,
+17.8,
+10.8
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915289",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "AEK Atenas",
+"a": "Galatasaray",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+"pick": "2",
+"pick_prob": 39.6,
+"dc": "X2",
+"score": "0-1",
+"conf": 2,
+"prob": [
+33.0,
+27.3,
+39.6
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915288",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "AS Roma",
+"a": "Sporting de Portugal",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+"pick": "1",
+"pick_prob": 40.1,
+"dc": "1X",
+"score": "1-0",
+"conf": 2,
+"prob": [
+40.1,
+28.4,
+31.5
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915286",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Aston Villa",
+"a": "PSG",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+"pick": "2",
+"pick_prob": 51.0,
+"dc": "X2",
+"score": "0-1",
+"conf": 4,
+"prob": [
+23.1,
+25.9,
+51.0
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915285",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Barcelona",
+"a": "Manchester City",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+"pick": "1",
+"pick_prob": 54.5,
+"dc": "1X",
+"score": "1-0",
+"conf": 5,
+"prob": [
+54.5,
+23.6,
+21.9
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915284",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Bayern Múnich",
+"a": "Slavia de Praga",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+"pick": "1",
+"pick_prob": 74.2,
+"dc": "1X",
+"score": "2-0",
+"conf": 9,
+"prob": [
+74.2,
+17.9,
+8.0
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915371",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Manchester United",
+"a": "RB Leipzig",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+"pick": "1",
+"pick_prob": 46.9,
+"dc": "1X",
+"score": "1-0",
+"conf": 3,
+"prob": [
+46.9,
+27.9,
+25.2
+],
+"created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915287",
+"date": "2026-12-08T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Nápoles",
+"a": "Brujas",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+"pick": "2",
+"pick_prob": 45.7,
+"dc": "X2",
+"score": "0-1",
+"conf": 3,
+"prob": [
+25.5,
+28.8,
+45.7
+],
+"created": "2026-11-17T23:35+00:00"
 }
 ]
