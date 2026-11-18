@@ -2437,5 +2437,194 @@
 45.7
 ],
 "created": "2026-11-17T23:35+00:00"
+},
+{
+"id": "401915283",
+"date": "2026-12-09T17:45Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Betis",
+"a": "Como",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+"pick": "2",
+"pick_prob": 38.5,
+"dc": "X2",
+"score": "0-1",
+"conf": 2,
+"prob": [
+35.0,
+26.5,
+38.5
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915282",
+"date": "2026-12-09T17:45Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Slovan Bratislava",
+"a": "Shakhtar",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+"pick": "2",
+"pick_prob": 48.0,
+"dc": "X2",
+"score": "0-1",
+"conf": 4,
+"prob": [
+25.6,
+26.4,
+48.0
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915367",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Arsenal",
+"a": "Real Madrid",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+"pick": "1",
+"pick_prob": 51.9,
+"dc": "1X",
+"score": "1-0",
+"conf": 5,
+"prob": [
+51.9,
+25.2,
+22.9
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915368",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Borussia Dortmund",
+"a": "Inter de Milán",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+"pick": "1",
+"pick_prob": 34.3,
+"dc": "1X",
+"score": "1-0",
+"conf": 1,
+"prob": [
+34.3,
+32.2,
+33.5
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915281",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "LASK Linz",
+"a": "Fenerbahçe",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+"pick": "2",
+"pick_prob": 38.0,
+"dc": "X2",
+"score": "0-1",
+"conf": 1,
+"prob": [
+35.5,
+26.6,
+38.0
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915370",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Lens",
+"a": "Bodø/Glimt",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+"pick": "2",
+"pick_prob": 47.4,
+"dc": "X2",
+"score": "0-1",
+"conf": 4,
+"prob": [
+26.4,
+26.2,
+47.4
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915369",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Liverpool",
+"a": "Oporto",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+"pick": "1",
+"pick_prob": 47.1,
+"dc": "1X",
+"score": "1-0",
+"conf": 3,
+"prob": [
+47.1,
+27.9,
+25.0
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915366",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "PSV",
+"a": "Atlético de Madrid",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+"pick": "1",
+"pick_prob": 40.8,
+"dc": "1X",
+"score": "1-0",
+"conf": 2,
+"prob": [
+40.8,
+27.4,
+31.8
+],
+"created": "2026-11-18T23:35+00:00"
+},
+{
+"id": "401915365",
+"date": "2026-12-09T20:00Z",
+"round": "Fase liga",
+"md": 6,
+"h": "Stuttgart",
+"a": "Lille",
+"hl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+"al": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+"pick": "1",
+"pick_prob": 48.6,
+"dc": "1X",
+"score": "1-0",
+"conf": 4,
+"prob": [
+48.6,
+27.0,
+24.4
+],
+"created": "2026-11-18T23:35+00:00"
 }
 ]
