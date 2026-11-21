@@ -1881,14 +1881,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
 "pick": "1",
-"pick_prob": 64.1,
+"pick_prob": 64.0,
 "dc": "1X",
 "score": "1-0",
 "conf": 7,
 "prob": [
-64.1,
+64.0,
 21.9,
-14.0
+14.2
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1902,14 +1902,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
 "pick": "2",
-"pick_prob": 39.6,
+"pick_prob": 38.0,
 "dc": "X2",
 "score": "0-1",
-"conf": 2,
+"conf": 1,
 "prob": [
-33.0,
-27.3,
-39.6
+35.6,
+26.4,
+38.0
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1923,14 +1923,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
 "pick": "1",
-"pick_prob": 71.3,
+"pick_prob": 70.9,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-71.3,
-17.8,
-10.8
+70.9,
+18.1,
+11.0
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -1944,13 +1944,13 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "pick": "1",
-"pick_prob": 68.7,
+"pick_prob": 69.2,
 "dc": "1X",
 "score": "2-0",
 "conf": 8,
 "prob": [
-68.7,
-19.0,
+69.2,
+18.5,
 12.3
 ],
 "created": "2026-11-03T23:26+00:00"
@@ -1970,8 +1970,8 @@
 "score": "0-1",
 "conf": 4,
 "prob": [
-24.8,
-25.5,
+24.9,
+25.3,
 49.8
 ],
 "created": "2026-11-03T23:26+00:00"
@@ -1986,14 +1986,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
 "pick": "1",
-"pick_prob": 69.7,
+"pick_prob": 69.2,
 "dc": "1X",
 "score": "2-0",
 "conf": 8,
 "prob": [
-69.7,
-18.7,
-11.6
+69.2,
+18.5,
+12.3
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -2013,8 +2013,8 @@
 "conf": 5,
 "prob": [
 52.8,
-26.7,
-20.6
+26.5,
+20.7
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -2028,14 +2028,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
 "pick": "1",
-"pick_prob": 70.2,
+"pick_prob": 69.8,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-70.2,
-18.6,
-11.2
+69.8,
+18.8,
+11.4
 ],
 "created": "2026-11-03T23:26+00:00"
 },
@@ -2112,14 +2112,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
 "pick": "1",
-"pick_prob": 54.9,
+"pick_prob": 54.2,
 "dc": "1X",
 "score": "1-0",
 "conf": 5,
 "prob": [
-54.9,
-25.0,
-20.1
+54.2,
+24.5,
+21.2
 ],
 "created": "2026-11-04T23:26+00:00"
 },
@@ -2154,14 +2154,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
 "pick": "1",
-"pick_prob": 69.4,
+"pick_prob": 69.2,
 "dc": "1X",
 "score": "2-0",
 "conf": 8,
 "prob": [
-69.4,
+69.2,
 18.5,
-12.1
+12.3
 ],
 "created": "2026-11-04T23:26+00:00"
 },
@@ -2196,14 +2196,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
 "pick": "1",
-"pick_prob": 71.7,
+"pick_prob": 71.6,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-71.7,
-17.9,
-10.4
+71.6,
+18.0,
+10.3
 ],
 "created": "2026-11-04T23:26+00:00"
 },
@@ -2259,14 +2259,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
 "pick": "1",
-"pick_prob": 54.9,
+"pick_prob": 50.9,
 "dc": "1X",
 "score": "1-0",
-"conf": 5,
+"conf": 4,
 "prob": [
-54.9,
-25.0,
-20.1
+50.9,
+24.2,
+24.9
 ],
 "created": "2026-11-17T23:35+00:00"
 },
@@ -2280,14 +2280,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
 "pick": "1",
-"pick_prob": 71.3,
+"pick_prob": 70.9,
 "dc": "1X",
 "score": "2-0",
 "conf": 9,
 "prob": [
-71.3,
-17.8,
-10.8
+70.9,
+18.1,
+11.0
 ],
 "created": "2026-11-17T23:35+00:00"
 },
@@ -2301,14 +2301,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
 "pick": "2",
-"pick_prob": 39.6,
+"pick_prob": 41.5,
 "dc": "X2",
 "score": "0-1",
 "conf": 2,
 "prob": [
-33.0,
-27.3,
-39.6
+32.2,
+26.4,
+41.5
 ],
 "created": "2026-11-17T23:35+00:00"
 },
@@ -2322,13 +2322,13 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
 "pick": "1",
-"pick_prob": 40.1,
+"pick_prob": 40.0,
 "dc": "1X",
 "score": "1-0",
 "conf": 2,
 "prob": [
-40.1,
-28.4,
+40.0,
+28.5,
 31.5
 ],
 "created": "2026-11-17T23:35+00:00"
@@ -2348,8 +2348,8 @@
 "score": "0-1",
 "conf": 4,
 "prob": [
-23.1,
-25.9,
+23.2,
+25.7,
 51.0
 ],
 "created": "2026-11-17T23:35+00:00"
@@ -2364,14 +2364,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
 "pick": "1",
-"pick_prob": 54.5,
+"pick_prob": 55.0,
 "dc": "1X",
 "score": "1-0",
 "conf": 5,
 "prob": [
-54.5,
-23.6,
-21.9
+55.0,
+23.3,
+21.7
 ],
 "created": "2026-11-17T23:35+00:00"
 },
@@ -2448,14 +2448,14 @@
 "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
 "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
 "pick": "2",
-"pick_prob": 38.5,
+"pick_prob": 38.1,
 "dc": "X2",
 "score": "0-1",
-"conf": 2,
+"conf": 1,
 "prob": [
-35.0,
-26.5,
-38.5
+36.0,
+25.9,
+38.1
 ],
 "created": "2026-11-18T23:35+00:00"
 },
@@ -2537,8 +2537,8 @@
 "score": "0-1",
 "conf": 1,
 "prob": [
-35.5,
-26.6,
+35.6,
+26.4,
 38.0
 ],
 "created": "2026-11-18T23:35+00:00"
